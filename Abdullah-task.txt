@@ -1,3 +1,11 @@
 ABDULLAH
 Hello world ??!!
 Python project 2022
+
+
+git config --global user.email "aa-nn14@hotmail.com"
+git config --global user.username "alotaibiabdullah67"
+
+Abdullah 
+----------------------------------------------------------------
+----------------------------------------------------------------
